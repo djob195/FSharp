@@ -27,12 +27,4 @@ exception vs returning a special value) may differ between languages.
 
 To run the tests, run the command `dotnet test` from within the exercise directory.
 
-## Further information
-
-For more detailed information about the F# track, including how to get help if
-you're having trouble, please visit the exercism.io [F# language page](http://exercism.io/languages/fsharp/resources).
-
-## Source
-
-The Calculating Point Mutations problem at Rosalind [http://rosalind.info/problems/hamm/](http://rosalind.info/problems/hamm/)
 
